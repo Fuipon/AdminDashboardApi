@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "admin-dashboard", "..\admin-dashboard\admin-dashboard\admin-dashboard.esproj", "{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminDashboardApi", "AdminDashboardApi\AdminDashboardApi.csproj", "{88750369-02D3-06CB-3177-F1F44388BA7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B07FC81-5C00-7F0B-D045-CB3878BDB73D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{88750369-02D3-06CB-3177-F1F44388BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88750369-02D3-06CB-3177-F1F44388BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88750369-02D3-06CB-3177-F1F44388BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88750369-02D3-06CB-3177-F1F44388BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
